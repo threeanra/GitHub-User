@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleGitHubUser</string>
+    <string name="search_user">Search user here...</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="menu_1">Bookmark</string>
+    <string name="menu_2">Dark Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
